@@ -3,5 +3,8 @@ body {
 	font-size: 14px;
 	min-width: 310px;
 	position: relative;
-	background-color: gray;
+	background-color: purple;
+}
+p{
+	font-size: 20px;
 }
